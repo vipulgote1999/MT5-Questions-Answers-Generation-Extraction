@@ -1,0 +1,9 @@
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torch>=1.10.2+cu113
+gdown~=4.3.1
+nltk~=3.7
+streamlit~=1.6.0
+transformers~=4.16.2
+pytorch-lightning~=1.5.10
+sentencepiece~=0.1.96
+protobuf~=3.19.4
