@@ -1,10 +1,5 @@
 # coding:utf-8
-"""
-Filename: mt5.py
-Author: @DvdNss
 
-Created on 12/30/2021
-"""
 
 from typing import List
 
